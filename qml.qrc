@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>OneCode.qml</file>
+        <file>CodeConner.qml</file>
+        <file>../下载/gaosudingzi-─г╨═.png</file>
+    </qresource>
+</RCC>
